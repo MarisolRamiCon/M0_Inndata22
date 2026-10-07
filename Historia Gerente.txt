@@ -1,0 +1,2 @@
+#como Gerente quiero reducir el tiempo que toma aprobar un préstamo 
+# para que sea mas rápido 
