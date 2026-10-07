@@ -1,0 +1,2 @@
+#Como Administrador quiero tener la base de datos de los clientes y sus respectivas cuenta
+#Para un mejor control
