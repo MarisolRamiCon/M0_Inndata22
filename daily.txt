@@ -1,0 +1,4 @@
+#Martes
+#Ayer: Instale VsCode, java21
+#Hoy: Voy a aprender Git
+#Obstaculos: No tener cuenta de github
